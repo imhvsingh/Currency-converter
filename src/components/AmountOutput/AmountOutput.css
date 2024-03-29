@@ -1,0 +1,14 @@
+textarea{
+    background-color: #12EF79;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #12EF79;
+    resize: none;
+    font-family: inherit;
+}
+
+label {
+    font-size: 14px;
+}
